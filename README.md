@@ -1,3 +1,4 @@
+
 # Chatbot AI Gemini dengan Streamlit
 
 Chatbot ini menggunakan Python, Google Gemini API, dan Streamlit. Chatbot hanya menjawab pertanyaan seputar dunia komputer, teknologi, pemrograman, perangkat keras, perangkat lunak, dan internet. Topik di luar ranah komputer tidak akan dijawab.
@@ -24,3 +25,5 @@ Chatbot ini menggunakan Python, Google Gemini API, dan Streamlit. Chatbot hanya 
 **Catatan:**
 - Pastikan koneksi internet aktif.
 - Jangan gunakan untuk topik di luar komputer/teknologi.
+=======
+# chatbot-ai-gemini
